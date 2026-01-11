@@ -19,7 +19,7 @@
 
 ---
 
-## 🎯 SDET-2 Strengths
+## 🎯 Strengths
 
 - Automation Framework Design (API, Mobile, UI)  
 - CI/CD Integration & Test Pipelines  
@@ -101,14 +101,14 @@
 
 ---
 
-## 📈 GitHub Performance
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi9avx&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9avx&layout=compact&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi9avx&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9avx&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi9avx&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi9avx&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi9avx&theme=radical&hide_border=true" width="48%" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi9avx&theme=radical" width="48%" alt="Profile Summary" />
 </p>
 
 ---
