@@ -1,17 +1,36 @@
-=<h1 align="center">Hi 👋, I'm Abhinav Kumar</h1>
-<h3 align="center">SDET 2 at slice | Backend & Mobile Automation | GenAI Explorer</h3>
+<h1 align="center">Hi 👋, I'm Abhinav Kumar</h1>
+<h3 align="center">SDET 2 @ Slice | Backend & Mobile Automation | GenAI in Testing</h3>
 
-- 👨‍💻 Currently working at **slice Small Finance Bank**  
-- 🌱 Learning and exploring **AI in automation**  
-- 🔍 Deep diving into **mobile + backend automation frameworks**  
-- 📊 Working with **JMeter** for performance testing  
-- 🚀 Hands-on with **Rest Assured, Mocha, Supertest, Appium, WebDriverIO**  
-- 🎯 Focused on **learning, building, and delivering quality**  
-- 🛠️ Passionate about building scalable automation frameworks  
+<p align="center">
+  🚀 Building scalable automation frameworks  
+  🤖 Creating AI-powered self-healing tests  
+  📱 Mobile + Backend Automation Specialist  
+</p>
 
 ---
 
-### 🏆 Achievements
+## 👨‍💻 About Me
+
+- 💼 SDET 2 at **Slice Small Finance Bank**  
+- 🧪 Expert in **API, Mobile & UI Automation**  
+- 🤖 Building **AI-driven testing tools**  
+- ⚙️ Strong in **CI/CD, Docker, GitHub Actions**  
+- 🎯 Goal: Fast, reliable, zero-bug releases  
+
+---
+
+## 🎯 SDET-2 Strengths
+
+- Automation Framework Design (API, Mobile, UI)  
+- CI/CD Integration & Test Pipelines  
+- Flaky Test Detection & Self-Healing  
+- Test Architecture & Reusability  
+- In-Sprint Automation & Shift-Left Testing  
+- Mentoring & Code Reviews  
+
+---
+
+## 🏆 Achievements
 
 - 🥇 **[Quality Quest Champion](https://www.linkedin.com/posts/abhi9avx_qualityquestchampion-bugathon-softwaretesting-activity-7185215746627514368-dO45/?utm_source=share&utm_medium=member_desktop)** – Top bug detection @ Bugathon’24  
 - 🌟 **[Star of the Month](https://www.linkedin.com/posts/abhi9avx_certificate-of-appreciation-activity-7218234038921093120-VP33/?utm_source=share&utm_medium=member_desktop)** – Recognized for outstanding performance  
@@ -21,65 +40,86 @@
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 <p align="left">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  
-  <!-- Automation & Testing Tools -->
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Appium-00B5D8?style=flat&logo=appium&logoColor=white" alt="Appium" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apache-jmeter&logoColor=white" alt="JMeter" />
-  <img src="https://img.shields.io/badge/Rest%20Assured-16A085?style=flat&logo=testing-library&logoColor=white" alt="Rest Assured" />
-  <img src="https://img.shields.io/badge/WebDriverIO-EF2D5E?style=flat&logo=webdriverio&logoColor=white" alt="WebDriverIO" />
-  <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white" alt="Mocha" />
-  <img src="https://img.shields.io/badge/Supertest-333333?style=flat&logo=node.js&logoColor=white" alt="Supertest" />
-  <img src="https://img.shields.io/badge/TestNG-FFCC00?style=flat&logo=testng&logoColor=black" alt="TestNG" />
-  
-  <!-- IDEs -->
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
-  <img src="https://img.shields.io/badge/Cursor-292C33?style=flat&logo=cursor&logoColor=white" alt="Cursor" />
-  
-  <!-- Version Control -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Appium-00B5D8?style=flat&logo=appium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rest%20Assured-16A085?style=flat"/>
+  <img src="https://img.shields.io/badge/WebDriverIO-EF2D5E?style=flat&logo=webdriverio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supertest-333333?style=flat"/>
+  <img src="https://img.shields.io/badge/TestNG-FFCC00?style=flat"/>
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apache-jmeter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Flagship Projects
 
-- 🔧 **CoreRestAssured** — A powerful backend automation framework built using **Java**, **Rest Assured**, and **TestNG**, designed for scalable API testing.  
-  🔗 [View Project](https://github.com/abhi9avx/CoreRestAssured)
+### 🔥 Self-Healing Automation Agent (MCP)
+- Detects flaky failures automatically  
+- Gemini suggests fixes  
+- Docker runs fixes & raises PR  
+🔗 https://github.com/abhi9avx/rest-assured-self-healing-mcp  
 
-- 💻 **Core Java** — A curated collection of Java concepts, hands-on examples, and best practices, focused on building a strong foundation for test automation.  
-  📂 [Explore Repository](https://github.com/abhi9avx/core-java)
+### ⚙️ Modular API Automation Framework
+- Java + RestAssured + TestNG  
+- DTO-driven architecture  
+- Docker + GitHub Actions + Allure  
+🔗 https://github.com/abhi9avx/modular-api-automation-framework  
+
+### 📱 Modular Mobile Automation Framework
+- Appium + Java  
+- Video recording & dynamic PageFactory  
+- CI integrated  
+🔗 https://github.com/abhi9avx/modular-mobile-automation-framework  
+
+### 🤖 LLM UI Tester
+- Gemini + Playwright  
+- AI-driven UI test execution  
+🔗 https://github.com/abhi9avx/llm-ui-tester  
+
+### 🧠 Meanly – Semantic Similarity Engine
+- Java semantic similarity engine  
+- Embedding-based comparison  
+🔗 https://github.com/abhi9avx/meanly  
+
+### 🧩 Cognigraph AI
+- Context-aware AI system  
+- Foundation for intelligent test generation  
+🔗 https://github.com/abhi9avx/cognigraph-ai  
+
+### 📚 Core Java for Automation
+- Java fundamentals for testers  
+🔗 https://github.com/abhi9avx/core-java  
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi9avx&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9avx&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi9avx&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9avx&layout=compact&theme=radical&hide_border=true" width="48%"/>
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi9avx&theme=radical&hide_border=true" width="48%" alt="GitHub Streak Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi9avx&theme=radical" width="48%" alt="Profile Summary" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi9avx&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi9avx&theme=radical" width="48%"/>
 </p>
 
 ---
 
-### 🌐 Let's Connect
+## 🌐 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhi9avx)  
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://x.com/abhi9avx)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram)](https://www.instagram.com/abhi9avx/)  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook)](https://www.facebook.com/abhi9avx)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/Abhi9avx/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhi9avx)  
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=x)](https://x.com/abhi9avx)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram)](https://www.instagram.com/abhi9avx/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/Abhi9avx/)  
 
 ---
 
-🔔 *Feel free to explore my work, collaborate, or reach out if you're into automation, GenAI, or career growth in tech!*
+🔥 If you want someone who can **build automation, scale testing, and innovate with AI** — you’re in the right place.
